@@ -1,0 +1,66 @@
+figure img {
+    width: 150px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h2 {
+    font-size: 27px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.addItems {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+}
+
+input {
+    width: 400px;
+    padding: 10px 20px;
+    border: 1px solid white;
+    font-size: 16px;
+}
+
+.bx {
+    padding-left: 10px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.showItems {
+    margin-top: 10px;
+}
+
+.eachItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eachItem p {
+    width: 400px;
+    background-color: #fa5e5e;
+    margin-top: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+
+.eachItem p:hover {
+    background-color: #f84444;
+    border: none;
+}
+
+.eachItem .bx {
+    margin-top: 10px;
+}

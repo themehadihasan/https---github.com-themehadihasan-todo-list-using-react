@@ -10,7 +10,7 @@ figure img {
 }
 
 h2 {
-    font-size: 27px;
+    font-size: 28px;
     font-weight: 600;
     padding-top: 10px;
 }
@@ -49,7 +49,7 @@ input {
     width: 400px;
     background-color: #fa5e5e;
     margin-top: 10px;
-    padding: 10px 20px;
+    padding: 5px 20px;
     text-align: left;
     color: white;
     font-weight: 600;
@@ -63,4 +63,9 @@ input {
 
 .eachItem .bx {
     margin-top: 10px;
+}
+
+.textEdit {
+    display: flex;
+    text-align: center;
 }
